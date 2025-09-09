@@ -1,3 +1,5 @@
+package web;
+
 import java.util.*;
 
 public class Task2 {

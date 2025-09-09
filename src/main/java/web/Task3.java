@@ -1,3 +1,5 @@
+package web;
+
 public class Task3 {
 
     public static int getMinElement(int[][] table) {
